@@ -24,8 +24,10 @@ let eggs = new Grocery('Eggs', 'Dozen Fresh Eggs', 3, 1.99 );
 let oatmeal = new Grocery('Oatmeal', 'Stars Quick Oats', 1, 2.59);
 let chicken = new Grocery('Chicken', 'Meals Drumsticks', 3, 9.99);
 
+//CREATE THE ARRAY FOR GROCERY ITEMS
 let items: Grocery[] = [];
 
+//PUSH METHOD TO APPEND ITEMS IN THE ARRY/ RETURN LENGTH OF NEW ARRAY
 items.push(bacon);
 items.push(fruit_punch);
 items.push(eggs);
