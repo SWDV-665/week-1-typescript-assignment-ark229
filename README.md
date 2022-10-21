@@ -7,3 +7,7 @@
 <p>2. Add few grocery items to an array of groceries, such as milk, bread, and eggs, along with some quantities (i.e. 3, 6, 11).  Display these grocery items as HTML output.</p>
 
 <p>3. The output of this assignment will be grocery.ts and groceries.html displaying the output.</p>
+
+### Project Outcome:
+
+![1Screenshot 2022-10-21 134526](https://user-images.githubusercontent.com/40047791/197257533-a6c85874-8612-4988-be5b-8cf1e035a6cb.png)
